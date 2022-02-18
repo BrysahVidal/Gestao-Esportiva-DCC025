@@ -1,0 +1,13 @@
+1:Carlinhos,atacante
+12:Cavalcante,atacante
+13:Costa,atacante
+14:Crust,atacante
+11:Certro,atacante
+16:Cintia,atacante
+24:Ciri,atacante
+21:Cila,atacante
+31:Cimas,atacante
+51:Cimoes,goleiro
+61:Ciminha,zagueiro
+71:Cimos,goleiro
+

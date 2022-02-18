@@ -1,0 +1,9 @@
+1:Bruno,Atacante
+2:Breno,Atacante
+3:Brendo,Atacante
+4:Brenda,Atacante
+5:Bruna,Goleiro
+6:Brena,Zagueiro
+7:Sergio,Goleiro
+8:Caelos,Zagueiro
+9:Marilo,Zagueiro
