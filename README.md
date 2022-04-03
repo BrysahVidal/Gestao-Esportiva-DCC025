@@ -1,4 +1,4 @@
-# Gestão de Campeonatos Esportivos
+# Gestão de Campeonatos Esportivos ![GitHub](https://img.shields.io/github/license/brysah/Gestao-Esportiva?color=blue&style=plastic)
 A fim de organizar atividades como: geração de tabela de jogos, visualização de tabela classificatória para os torcedores e detalhes sobre a formação das equipes. O sistema em questão aliado á programação orientada a objetos e a linguagem Java busca suprir esses tópicos.
 ## Observações
  - O login do Usuario Técnico é definido pelo nome do tecnico e a senha o time associado
